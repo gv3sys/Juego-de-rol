@@ -66,7 +66,8 @@ elif h1 == "C":
                     print("Te quedas quieto pero los guardias ven que tienes dinero, te piden el dinero y te dejan salir\n"
                           "Usas el teléfono para poder llamar y volver a tu casa")
                 else:
-                    print("Te quedas quieto, los guardias te disparan\n)
+                    print("Te quedas quieto, los guardias no te ven como una amenaza y te permiten salir\n"
+                          "Usas el teléfono para poder llamar y volver a tu casa")
 
             else:
                 print("¿Qué suponías que iba a pasar solo cogiendo el dinero? ¿Que se abriría un portal?")
